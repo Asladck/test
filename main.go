@@ -1,2 +1,5 @@
 package mainls
-ergjelghle
+
+func main() {
+	print("aaaa")
+}
