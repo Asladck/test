@@ -1,6 +1,6 @@
-package mainls
+package main
 
 func main() {
 	print("aaaa")
 }
-func nnnn(){}
+
